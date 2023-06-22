@@ -1,0 +1,15 @@
+/Users/mak/Desktop/csharp лекции/expl002/bin/Debug/net6.0/expl002
+/Users/mak/Desktop/csharp лекции/expl002/bin/Debug/net6.0/expl002.deps.json
+/Users/mak/Desktop/csharp лекции/expl002/bin/Debug/net6.0/expl002.runtimeconfig.json
+/Users/mak/Desktop/csharp лекции/expl002/bin/Debug/net6.0/expl002.dll
+/Users/mak/Desktop/csharp лекции/expl002/bin/Debug/net6.0/expl002.pdb
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/expl002.csproj.AssemblyReference.cache
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/expl002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/expl002.AssemblyInfoInputs.cache
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/expl002.AssemblyInfo.cs
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/expl002.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/expl002.dll
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/refint/expl002.dll
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/expl002.pdb
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/expl002.genruntimeconfig.cache
+/Users/mak/Desktop/csharp лекции/expl002/obj/Debug/net6.0/ref/expl002.dll
